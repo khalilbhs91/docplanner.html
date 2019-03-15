@@ -1,0 +1,51 @@
+.scrolling-navbar{
+    background-color: white;
+    opacity: 0.9;
+
+}
+p:hover
+{
+    border-left: 10px solid black;
+}
+.container{
+    
+    text-align: center;
+}
+.icone{
+    margin-bottom: 40px;
+}
+.article
+{
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+    margin-top: 40px;
+  
+}
+.petite-article{
+
+    width: 40%;
+   
+}
+.mt-8{
+    color: rgb(9, 209, 176);
+}
+
+
+
+.row{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.card-body{
+    height: 340px;
+}
+.card-title{
+    color: rgb(21, 141, 131);
+}
+.card{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
